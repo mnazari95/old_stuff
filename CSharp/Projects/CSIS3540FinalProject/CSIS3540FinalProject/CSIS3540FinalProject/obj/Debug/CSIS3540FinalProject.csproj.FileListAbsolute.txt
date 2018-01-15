@@ -1,0 +1,27 @@
+H:\CSIS 3540 - Client-Server Systems\Project\CSIS3540FinalProject\CSIS3540FinalProject\bin\Debug\CSIS3540FinalProject.exe.config
+H:\CSIS 3540 - Client-Server Systems\Project\CSIS3540FinalProject\CSIS3540FinalProject\bin\Debug\CSIS3540FinalProject.exe
+H:\CSIS 3540 - Client-Server Systems\Project\CSIS3540FinalProject\CSIS3540FinalProject\bin\Debug\CSIS3540FinalProject.pdb
+H:\CSIS 3540 - Client-Server Systems\Project\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.loginScreen.resources
+H:\CSIS 3540 - Client-Server Systems\Project\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.newCustForm.resources
+H:\CSIS 3540 - Client-Server Systems\Project\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.Properties.Resources.resources
+H:\CSIS 3540 - Client-Server Systems\Project\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.csproj.GenerateResource.Cache
+H:\CSIS 3540 - Client-Server Systems\Project\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.exe
+H:\CSIS 3540 - Client-Server Systems\Project\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.pdb
+H:\CSIS 3540 - Client-Server Systems\Project\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.returnCustForm.resources
+H:\CSIS 3540 - Client-Server Systems\Project\CSIS3540FinalProject\CSIS3540FinalProject\bin\Debug\MySql.Data.dll
+H:\CSIS 3540 - Client-Server Systems\Project\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.newCustItemForm.resources
+H:\CSIS 3540 - Client-Server Systems\Project\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.mainCustScreen.resources
+C:\Users\Lenovo\Desktop\CSIS3540FinalProject\CSIS3540FinalProject\CSIS3540FinalProject\bin\Debug\CSIS3540FinalProject.exe.config
+C:\Users\Lenovo\Desktop\CSIS3540FinalProject\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.exe
+C:\Users\Lenovo\Desktop\CSIS3540FinalProject\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.pdb
+C:\Users\Lenovo\Desktop\CSIS3540FinalProject\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\CSIS3540FinalProject\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.loginScreen.resources
+C:\Users\Lenovo\Desktop\CSIS3540FinalProject\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.mainCustScreen.resources
+C:\Users\Lenovo\Desktop\CSIS3540FinalProject\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.newCustForm.resources
+C:\Users\Lenovo\Desktop\CSIS3540FinalProject\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.newCustItemForm.resources
+C:\Users\Lenovo\Desktop\CSIS3540FinalProject\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CSIS3540FinalProject\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.returnCustForm.resources
+C:\Users\Lenovo\Desktop\CSIS3540FinalProject\CSIS3540FinalProject\CSIS3540FinalProject\obj\Debug\CSIS3540FinalProject.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\CSIS3540FinalProject\CSIS3540FinalProject\CSIS3540FinalProject\bin\Debug\CSIS3540FinalProject.exe
+C:\Users\Lenovo\Desktop\CSIS3540FinalProject\CSIS3540FinalProject\CSIS3540FinalProject\bin\Debug\CSIS3540FinalProject.pdb
+C:\Users\Lenovo\Desktop\CSIS3540FinalProject\CSIS3540FinalProject\CSIS3540FinalProject\bin\Debug\MySql.Data.dll
