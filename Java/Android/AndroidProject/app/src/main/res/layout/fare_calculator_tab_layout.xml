@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/txtzone"
+        android:id="@+id/txtOne"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/adult"
+        android:id="@+id/txtTwo"
+        android:layout_below="@+id/spZone"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="31dp" />
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/spZone"
+        android:spinnerMode="dialog"
+        android:entries="@array/zone"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true" />
+
+    <EditText
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/edOne"
+        android:inputType="number"
+        android:layout_toLeftOf="@id/txtTwo"
+        android:layout_alignBottom="@+id/txtTwo"
+        android:layout_alignParentRight="true" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/concession"
+        android:id="@+id/txtThree"
+        android:layout_below="@+id/txtTwo"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="31dp" />
+
+    <EditText
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/edTwo"
+        android:layout_alignBottom="@+id/txtThree"
+        android:inputType="number"
+        android:layout_alignLeft="@+id/edOne"
+        android:layout_alignStart="@+id/edOne" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calculate"
+        android:id="@+id/btnCal"
+        android:layout_below="@+id/txtThree"
+        android:onClick="fareResult"
+        android:background="@color/primaryColor"
+        android:textColor="@color/toolBarTextColor"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="46dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/Result"
+        android:layout_below="@+id/btnCal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="69dp" />
+
+
+</RelativeLayout>

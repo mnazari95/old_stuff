@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:background="@color/primaryColor">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    <AutoCompleteTextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15dp"
+        android:id="@+id/autoCompTVFrom"
+        android:textColor="@color/toolBarTextColor"
+        android:textColorHint="@color/toolBarTextColor"
+        android:inputType="textNoSuggestions"
+        android:hint="From"
+        android:layout_above="@+id/autoCompTVTo"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"/>
+
+    <AutoCompleteTextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15dp"
+        android:id="@+id/autoCompTVTo"
+        android:inputType="textNoSuggestions"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/autoCompTVFrom"
+        android:layout_alignStart="@+id/autoCompTVFrom"
+        android:textColor="@color/toolBarTextColor"
+        android:textColorHint="@color/toolBarTextColor"
+        android:hint="To"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Find"
+        android:textSize="20dp"
+        android:id="@+id/btnNav"
+        android:background="@color/primaryColorLight"
+        android:textColor="@color/toolBarTextColor"
+        android:onClick="drawRoute"
+        android:layout_below="@+id/autoCompTVTo"
+        android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+</android.support.v7.widget.Toolbar>

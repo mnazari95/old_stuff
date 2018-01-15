@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Vancouver Skytrain Guide</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_parent">ParentActivity</string>
+
+    <string-array name="station_line_list">
+        <item>Sapperton</item>
+        <item>Braid</item>
+        <item>Lougheed Town Centre</item>
+        <item>Production Way-University</item>
+        <item>Lake City Way</item>
+        <item>Sperling-Burnaby Lake</item>
+        <item>Holdom</item>
+        <item>Brentwood Town Centre</item>
+        <item>Gilmore</item>
+        <item>Rupert</item>
+        <item>Renfrew</item>
+        <item>VCC-Clark</item>
+        <item>Vancouver City Centre</item>
+        <item>Yaletown Round House</item>
+        <item>Olympic Village</item>
+        <item>Broadway City Hall</item>
+        <item>King Edward</item>
+        <item>Oakridge 41st Ave</item>
+        <item>Langara 49th Ave</item>
+        <item>Marine Drive</item>
+        <item>Bridgeport</item>
+        <item>Alberdeen</item>
+        <item>Lansdowne</item>
+        <item>Richmond-Brighouse</item>
+        <item>Templeton</item>
+        <item>Sea Island Centre</item>
+        <item>YVR-Airport</item>
+        <item>Waterfront</item>
+        <item>Burrard</item>
+        <item>Granville</item>
+        <item>Stadium-Chinatown</item>
+        <item>Main St-Science World</item>
+        <item>Commercial-Broadway(E)</item>
+        <item>Commercial-Broadway(M)</item>
+        <item>Nanaimo</item>
+        <item>29th Ave</item>
+        <item>Joyce-Collingwood</item>
+        <item>Patterson</item>
+        <item>Metrotown</item>
+        <item>Royal Oak</item>
+        <item>Edmonds</item>
+        <item>22nd Street</item>
+        <item>New Westminster</item>
+        <item>Columbia</item>
+        <item>Scott Road</item>
+        <item>Gateway</item>
+        <item>Surrey Central</item>
+        <item>King George</item>
+    </string-array>
+
+    <string name="Transit">Transit Information</string>
+    <string name="TransitC">
+        Mon to Fri: 4 am - 12:30 am\nSat and Sun:6:30 am - 11:30 pm\nT: 604-953-3333</string>
+    <string name="Police">Police</string>
+    <string name="PoliceC">
+        Non-Emergency: 604-515-8300\nEmergency: 911
+    </string>
+    <string name="HeadOffice">Head Office</string>
+    <string name="HeadOfficeC">
+        Mon to Fri: 8 am - 4 pm\nT: 778-375-7500\n287 Nelson\'s Ct #400\nNew Westminster,BC V3L OE7
+    </string>
+    <string name="title_activity_contact2">Contact2</string>
+    <string-array name="settingOptions">
+        <item>Search History</item>
+        <item>Contact Information</item>
+        <item>write feedback</item>
+        <item>Map info</item>
+    </string-array>
+    <string name="txtzone">Select the zone</string>
+    <string name="adult">Number of Adults</string>
+    <string name="concession">Kids/Senior riders</string>
+    <string-array name="zone">
+        <item>Zone 1</item>
+        <item>Zone 2</item>
+        <item>Zone 3</item>
+    </string-array>
+</resources>
